@@ -17,6 +17,9 @@
 ### Chrome Driver 다운로드 사이트
 [Chrome Driver](https://chromedriver.chromium.org/downloads)
 
+### 공유자료
+ * [자연어처리] [Link](https://drive.google.com/open?id=1tHdHW4IypoISNrpNhk_clkxJ3WiWlnpG)
+
 ### 국내 음식점 데이터 셋 다운로드 받기
  * [국내 음식점 데이터 셋] [Link](https://www.data.go.kr/dataset/15003419/fileData.do)
 
