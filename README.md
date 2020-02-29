@@ -13,6 +13,12 @@
     * [poltly](https://plot.ly/)
     * [folium](https://python-visualization.github.io/folium/)
 
+### Editor & Development Tool
+ * [Sublime Text](https://www.sublimetext.com/3)
+ * [NotePad++](https://notepad-plus-plus.org/downloads/)
+ * [Visual Studio Code](https://code.visualstudio.com/)
+ * [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/)
+ * [Anaconda archieve](https://repo.continuum.io/archive/)
 
 ### Chrome Driver 다운로드 사이트
 [Chrome Driver](https://chromedriver.chromium.org/downloads)
